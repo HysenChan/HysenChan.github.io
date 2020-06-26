@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hysenchan.github.io/"/>
-  <updated>2020-06-09T05:23:30.238Z</updated>
+  <updated>2020-06-26T11:47:36.366Z</updated>
   <id>http://hysenchan.github.io/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>testing</title>
+    <link href="http://hysenchan.github.io/2020/06/26/testing/"/>
+    <id>http://hysenchan.github.io/2020/06/26/testing/</id>
+    <published>2020-06-26T11:47:36.000Z</published>
+    <updated>2020-06-26T11:47:36.366Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+      <category term="LeetCode" scheme="http://hysenchan.github.io/categories/LeetCode/"/>
+    
+    
+      <category term="Array" scheme="http://hysenchan.github.io/tags/Array/"/>
+    
+  </entry>
   
   <entry>
     <title>《深海探宝》</title>

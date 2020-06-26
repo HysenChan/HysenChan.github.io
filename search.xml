@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>testing</title>
+      <link href="/2020/06/26/testing/"/>
+      <url>/2020/06/26/testing/</url>
+      
+        <content type="html"><![CDATA[<script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> LeetCode </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Array </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>《深海探宝》</title>
       <link href="/2020/06/09/shen-hai-tan-bao/"/>
       <url>/2020/06/09/shen-hai-tan-bao/</url>
