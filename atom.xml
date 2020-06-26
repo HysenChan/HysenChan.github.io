@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hysenchan.github.io/"/>
-  <updated>2020-06-26T11:47:36.366Z</updated>
+  <updated>2020-06-26T14:39:08.984Z</updated>
   <id>http://hysenchan.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>testing</title>
-    <link href="http://hysenchan.github.io/2020/06/26/testing/"/>
-    <id>http://hysenchan.github.io/2020/06/26/testing/</id>
-    <published>2020-06-26T11:47:36.000Z</published>
-    <updated>2020-06-26T11:47:36.366Z</updated>
+    <title>LeetCode-Array-001-TwoSum</title>
+    <link href="http://hysenchan.github.io/2020/06/26/leetcode-array-001-twosum/"/>
+    <id>http://hysenchan.github.io/2020/06/26/leetcode-array-001-twosum/</id>
+    <published>2020-06-26T11:50:22.000Z</published>
+    <updated>2020-06-26T14:39:08.984Z</updated>
     
     <summary type="html">
     
@@ -29,11 +29,8 @@
       
         
         
-          &lt;script&gt;
-        document.querySelectorAll(&#39;.github-emoji&#39;)
-          .forEach(el =&gt; {
-            if (!el.dataset.src) { return; }
-       
+          &lt;h1 id=&quot;01-两数之和&quot;&gt;&lt;a href=&quot;#01-两数之和&quot; class=&quot;headerlink&quot; title=&quot;01.两数之和&quot;&gt;&lt;/a&gt;01.两数之和&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;题目描述：&lt;/strong&gt;&lt;br&gt;　　给定一个整数数组 nums
         
       
     
